@@ -1,4 +1,4 @@
-# futboll-player-stats-2025
+# soccer-player-stats-2025
 *Análisis de Desempeño - Liga BRA.2 (2025)*
 
 1. Validación Estadística de la Inversión
